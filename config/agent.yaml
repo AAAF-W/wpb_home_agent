@@ -1,0 +1,5 @@
+robot_id: 3
+server_ip: 192.168.50.202
+sim_flag: false
+WpbhLocalPlanner:
+  scan_topic: /scan
